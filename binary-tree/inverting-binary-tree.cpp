@@ -1,5 +1,4 @@
 //inverting-binary-tree.cpp
-
 #include <iostream>
 
 using namespace std;
